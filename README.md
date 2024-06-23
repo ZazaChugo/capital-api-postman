@@ -34,7 +34,7 @@ Here you can find Postman collection of Capital.com Public API and files for Liv
 - Delete your account credentials from the environment settings as soon as you decide not to use the collection anymore.
 
 ## Useful links
-- [Capital.com website API documentation](https://capital.com/api)
+- [Capital.com website API documentation]([https://capital.com/api](https://open-api.capital.com/))
 - [Capital.com API Specification](https://open-api.capital.com/)
 - [Capital.com API FAQ](https://capital.zendesk.com/hc/en-us/sections/4415178206354-API)
 - [Postman - Importing data into Postman](https://learning.postman.com/docs/getting-started/importing-and-exporting-data/#importing-data-into-postman)
